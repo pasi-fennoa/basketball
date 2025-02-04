@@ -24,7 +24,6 @@ export default function TeamsScreen() {
 
     try {
       const data = await fetch(endpointUrl, { method: "GET" });
-      console.log('*** data', data);
       const parsedData: Team[] = await data.json();
       setTeams(parsedData);
     } catch (e) {
