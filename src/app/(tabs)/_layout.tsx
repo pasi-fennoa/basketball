@@ -37,7 +37,6 @@ export default function TabLayout() {
         name="teams"
         options={{
           title: 'Joukkueet',
-          headerShown: true,
           tabBarIcon: ({ color }) => <IconSymbol size={28} name="person.2.fill" color={color} />,
         }}
       />

@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "1",
     "name": "Atlanta Hawks",
     "nickname": "Hawks",
     "code": "ATL",
@@ -8,7 +8,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/e/ee/Hawks_2016.png"
   },
   {
-    "id": 2,
+    "id": "2",
     "name": "Boston Celtics",
     "nickname": "Celtics",
     "code": "BOS",
@@ -16,7 +16,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Celtics_de_Boston_logo.svg/1024px-Celtics_de_Boston_logo.svg.png"
   },
   {
-    "id": 4,
+    "id": "4",
     "name": "Brooklyn Nets",
     "nickname": "Nets",
     "code": "BKN",
@@ -24,7 +24,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Brooklyn_Nets_newlogo.svg/130px-Brooklyn_Nets_newlogo.svg.png"
   },
   {
-    "id": 5,
+    "id": "5",
     "name": "Charlotte Hornets",
     "nickname": "Hornets",
     "code": "CHA",
@@ -32,7 +32,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/f/f3/Hornets_de_Charlotte_logo.svg/1200px-Hornets_de_Charlotte_logo.svg.png"
   },
   {
-    "id": 6,
+    "id": "6",
     "name": "Chicago Bulls",
     "nickname": "Bulls",
     "code": "CHI",
@@ -40,7 +40,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d1/Bulls_de_Chicago_logo.svg/1200px-Bulls_de_Chicago_logo.svg.png"
   },
   {
-    "id": 7,
+    "id": "7",
     "name": "Cleveland Cavaliers",
     "nickname": "Cavaliers",
     "code": "CLE",
@@ -48,7 +48,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/0/06/Cavs_de_Cleveland_logo_2017.png/150px-Cavs_de_Cleveland_logo_2017.png"
   },
   {
-    "id": 8,
+    "id": "8",
     "name": "Dallas Mavericks",
     "nickname": "Mavericks",
     "code": "DAL",
@@ -56,7 +56,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/b/b8/Mavericks_de_Dallas_logo.svg/150px-Mavericks_de_Dallas_logo.svg.png"
   },
   {
-    "id": 9,
+    "id": "9",
     "name": "Denver Nuggets",
     "nickname": "Nuggets",
     "code": "DEN",
@@ -64,7 +64,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/3/35/Nuggets_de_Denver_2018.png/180px-Nuggets_de_Denver_2018.png"
   },
   {
-    "id": 10,
+    "id": "10",
     "name": "Detroit Pistons",
     "nickname": "Pistons",
     "code": "DET",
@@ -72,7 +72,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Detroit_Pistons_primary_logo_2017.png/150px-Detroit_Pistons_primary_logo_2017.png"
   },
   {
-    "id": 11,
+    "id": "11",
     "name": "Golden State Warriors",
     "nickname": "Warriors",
     "code": "GSW",
@@ -80,7 +80,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/de/Warriors_de_Golden_State_logo.svg/1200px-Warriors_de_Golden_State_logo.svg.png"
   },
   {
-    "id": 14,
+    "id": "14",
     "name": "Houston Rockets",
     "nickname": "Rockets",
     "code": "HOU",
@@ -88,7 +88,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/de/Houston_Rockets_logo_2003.png/330px-Houston_Rockets_logo_2003.png"
   },
   {
-    "id": 15,
+    "id": "15",
     "name": "Indiana Pacers",
     "nickname": "Pacers",
     "code": "IND",
@@ -96,7 +96,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/c/cf/Pacers_de_l%27Indiana_logo.svg/1180px-Pacers_de_l%27Indiana_logo.svg.png"
   },
   {
-    "id": 16,
+    "id": "16",
     "name": "LA Clippers",
     "nickname": "Clippers",
     "code": "LAC",
@@ -104,7 +104,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/d/d6/Los_Angeles_Clippers_logo_2010.png"
   },
   {
-    "id": 17,
+    "id": "17",
     "name": "Los Angeles Lakers",
     "nickname": "Lakers",
     "code": "LAL",
@@ -112,7 +112,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/220px-Los_Angeles_Lakers_logo.svg.png"
   },
   {
-    "id": 19,
+    "id": "19",
     "name": "Memphis Grizzlies",
     "nickname": "Grizzlies",
     "code": "MEM",
@@ -120,7 +120,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Memphis_Grizzlies.svg/1200px-Memphis_Grizzlies.svg.png"
   },
   {
-    "id": 20,
+    "id": "20",
     "name": "Miami Heat",
     "nickname": "Heat",
     "code": "MIA",
@@ -128,7 +128,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/1/1c/Miami_Heat_-_Logo.svg/1200px-Miami_Heat_-_Logo.svg.png"
   },
   {
-    "id": 21,
+    "id": "21",
     "name": "Milwaukee Bucks",
     "nickname": "Bucks",
     "code": "MIL",
@@ -136,7 +136,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/3/34/Bucks2015.png"
   },
   {
-    "id": 22,
+    "id": "22",
     "name": "Minnesota Timberwolves",
     "nickname": "Timberwolves",
     "code": "MIN",
@@ -144,7 +144,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/d9/Timberwolves_du_Minnesota_logo_2017.png/200px-Timberwolves_du_Minnesota_logo_2017.png"
   },
   {
-    "id": 23,
+    "id": "23",
     "name": "New Orleans Pelicans",
     "nickname": "Pelicans",
     "code": "NOP",
@@ -152,7 +152,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/2/21/New_Orleans_Pelicans.png/200px-New_Orleans_Pelicans.png"
   },
   {
-    "id": 24,
+    "id": "24",
     "name": "New York Knicks",
     "nickname": "Knicks",
     "code": "NYK",
@@ -160,7 +160,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/d/dc/NY_Knicks_Logo_2011.png"
   },
   {
-    "id": 25,
+    "id": "25",
     "name": "Oklahoma City Thunder",
     "nickname": "Thunder",
     "code": "OKC",
@@ -168,7 +168,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Thunder_d%27Oklahoma_City_logo.svg/1200px-Thunder_d%27Oklahoma_City_logo.svg.png"
   },
   {
-    "id": 26,
+    "id": "26",
     "name": "Orlando Magic",
     "nickname": "Magic",
     "code": "ORL",
@@ -176,7 +176,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/b/bd/Orlando_Magic_logo_2010.png"
   },
   {
-    "id": 27,
+    "id": "27",
     "name": "Philadelphia 76ers",
     "nickname": "76ers",
     "code": "PHI",
@@ -184,7 +184,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/4/48/76ers_2016.png"
   },
   {
-    "id": 28,
+    "id": "28",
     "name": "Phoenix Suns",
     "nickname": "Suns",
     "code": "PHX",
@@ -192,7 +192,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/5/56/Phoenix_Suns_2013.png"
   },
   {
-    "id": 29,
+    "id": "29",
     "name": "Portland Trail Blazers",
     "nickname": "Trail Blazers",
     "code": "POR",
@@ -200,7 +200,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Portland_Trail_Blazers_logo.svg/1200px-Portland_Trail_Blazers_logo.svg.png"
   },
   {
-    "id": 30,
+    "id": "30",
     "name": "Sacramento Kings",
     "nickname": "Kings",
     "code": "SAC",
@@ -208,7 +208,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/thumb/9/95/Kings_de_Sacramento_logo.svg/1200px-Kings_de_Sacramento_logo.svg.png"
   },
   {
-    "id": 31,
+    "id": "31",
     "name": "San Antonio Spurs",
     "nickname": "Spurs",
     "code": "SAS",
@@ -216,7 +216,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/0/0e/San_Antonio_Spurs_2018.png"
   },
   {
-    "id": 38,
+    "id": "38",
     "name": "Toronto Raptors",
     "nickname": "Raptors",
     "code": "TOR",
@@ -224,7 +224,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/8/89/Raptors2015.png"
   },
   {
-    "id": 40,
+    "id": "40",
     "name": "Utah Jazz",
     "nickname": "Jazz",
     "code": "UTA",
@@ -232,7 +232,7 @@
     "logo": "https://upload.wikimedia.org/wikipedia/fr/3/3b/Jazz_de_l%27Utah_logo.png"
   },
   {
-    "id": 41,
+    "id": "41",
     "name": "Washington Wizards",
     "nickname": "Wizards",
     "code": "WAS",

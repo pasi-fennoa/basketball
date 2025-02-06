@@ -13,7 +13,9 @@ const MAPPING = {
   'paperplane.fill': 'send',
   'chevron.left.forwardslash.chevron.right': 'code',
   'chevron.right': 'chevron-right',
-  'person.2.fill': 'people'
+  'person.2.fill': 'people',
+  'plus.circle': 'add-circle-outline',
+  'trash': 'delete',
 } as Partial<
   Record<
     import('expo-symbols').SymbolViewProps['name'],
